@@ -2,7 +2,7 @@
 
 namespace Variaveis
 {
-    class Program
+    class PrimitiveTypes
     {
         static void Main(string[] args)
         {

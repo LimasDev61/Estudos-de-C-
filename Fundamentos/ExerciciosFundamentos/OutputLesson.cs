@@ -17,21 +17,18 @@ namespace ExerciciosFundamentos
             double preco1 = 2100.0;
             double preco2 = 650.50;
             double medida = 53.234567;
-            
+
             string globalization = medida.ToString("F3", CultureInfo.InvariantCulture);
 
             Console.WriteLine("Produtos:");
             Console.WriteLine($"{produto1}, preço: $ {preco1:F2}");
             Console.WriteLine($"{produto2}, preço: $ {preco2:F2}\n");
-            
+
             Console.WriteLine($"{idade} anos de idade, código {codigo} e gênero {genero}\n");
 
             Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
             Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
             Console.WriteLine($"Separador decimal invariant culture: {globalization}");
-            
-            
-            
         }
     }
 }

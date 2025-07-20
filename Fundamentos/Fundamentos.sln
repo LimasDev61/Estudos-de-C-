@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeituraEscrita", "LeituraEscrita\LeituraEscrita.csproj", "{2C057534-8E0F-478B-84B6-74EC641E93F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFundamentos", "ExerciciosFundamentos\ExerciciosFundamentos.csproj", "{AD72DCF3-7FA8-469B-94B8-0FD571A9985B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{45734726-6871-4DC6-95AE-75C67BDBF446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{2C057534-8E0F-478B-84B6-74EC641E93F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C057534-8E0F-478B-84B6-74EC641E93F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C057534-8E0F-478B-84B6-74EC641E93F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD72DCF3-7FA8-469B-94B8-0FD571A9985B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD72DCF3-7FA8-469B-94B8-0FD571A9985B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD72DCF3-7FA8-469B-94B8-0FD571A9985B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD72DCF3-7FA8-469B-94B8-0FD571A9985B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45734726-6871-4DC6-95AE-75C67BDBF446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45734726-6871-4DC6-95AE-75C67BDBF446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45734726-6871-4DC6-95AE-75C67BDBF446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45734726-6871-4DC6-95AE-75C67BDBF446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

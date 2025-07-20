@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{ACE98E93-3170-4797-BC95-87D3D33C5577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeituraEscrita", "LeituraEscrita\LeituraEscrita.csproj", "{2C057534-8E0F-478B-84B6-74EC641E93F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escrita", "Escrita\Escrita.csproj", "{2C057534-8E0F-478B-84B6-74EC641E93F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{45734726-6871-4DC6-95AE-75C67BDBF446}"
 EndProject

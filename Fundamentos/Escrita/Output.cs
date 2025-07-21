@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace LeituraEscrita
+namespace Escrita
 {
     class Output
     {

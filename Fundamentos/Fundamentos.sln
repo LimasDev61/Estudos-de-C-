@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escrita", "Escrita\Escrita.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{45734726-6871-4DC6-95AE-75C67BDBF446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura", "Leitura\Leitura.csproj", "{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{45734726-6871-4DC6-95AE-75C67BDBF446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45734726-6871-4DC6-95AE-75C67BDBF446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45734726-6871-4DC6-95AE-75C67BDBF446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

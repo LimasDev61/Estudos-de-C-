@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura", "Leitura\Leitura.csproj", "{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresComparativos", "OperadoresComparativos\OperadoresComparativos.csproj", "{A1F87EFD-1E24-42EB-A636-B797BE4B10B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{54BE3E21-AA3F-4ACB-BAB1-A5A43B6E0954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7222FDEF-1236-4CF7-8537-F6ED129CD4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F87EFD-1E24-42EB-A636-B797BE4B10B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F87EFD-1E24-42EB-A636-B797BE4B10B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F87EFD-1E24-42EB-A636-B797BE4B10B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F87EFD-1E24-42EB-A636-B797BE4B10B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BE3E21-AA3F-4ACB-BAB1-A5A43B6E0954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BE3E21-AA3F-4ACB-BAB1-A5A43B6E0954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BE3E21-AA3F-4ACB-BAB1-A5A43B6E0954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BE3E21-AA3F-4ACB-BAB1-A5A43B6E0954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

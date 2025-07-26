@@ -15,7 +15,7 @@ namespace Exercicio_6_Geometry
          * c) a área do trapézio que tem A e B por bases e C por altura.
          * d) a área do quadrado que tem lado B.
          * e) a área do retângulo que tem lados A e B.
-         * 
+         *  
          */
         
         private const double PI = 3.14159;

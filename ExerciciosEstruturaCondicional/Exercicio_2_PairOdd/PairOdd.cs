@@ -4,6 +4,11 @@ namespace Exercicio_2_PairOdd
 {
     class PairOdd
     {
+        /*
+         *
+         * Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar. 
+         * 
+         */
         static void Main(string[] args)
         {
             

@@ -20,7 +20,7 @@ namespace ConversaoImplicitaCasting
 
             // erro nessa linha > float errorConversion1 = errorConversion; 
 
-            // Casting maior > menor;
+            // Casting maior < menor;
 
             Console.WriteLine();
             Console.WriteLine("Casting:");

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1_Password", "Exercicio_1_Password\Exercicio_1_Password.csproj", "{14521B06-5BC6-4258-8EE1-9E31B3E34962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2_Quadrant", "Exercicio_2_Quadrant\Exercicio_2_Quadrant.csproj", "{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3_Fuel", "Exercicio_3_Fuel\Exercicio_3_Fuel.csproj", "{5E365E55-D679-4835-B202-85887D787C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14521B06-5BC6-4258-8EE1-9E31B3E34962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14521B06-5BC6-4258-8EE1-9E31B3E34962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14521B06-5BC6-4258-8EE1-9E31B3E34962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14521B06-5BC6-4258-8EE1-9E31B3E34962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E365E55-D679-4835-B202-85887D787C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E365E55-D679-4835-B202-85887D787C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E365E55-D679-4835-B202-85887D787C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E365E55-D679-4835-B202-85887D787C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

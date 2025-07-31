@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_1_Password_While")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e703bff80d86a555e48bda5a8dbfa7b603443d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96799a3b2ad43199b7118d9cb79adb4ece050e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_1_Password_While")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_1_Password_While")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

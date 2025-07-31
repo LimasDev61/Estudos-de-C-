@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1_Password", "Exercicio_1_Password\Exercicio_1_Password.csproj", "{14521B06-5BC6-4258-8EE1-9E31B3E34962}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1_Password_While", "Exercicio_1_Password_While\Exercicio_1_Password_While.csproj", "{14521B06-5BC6-4258-8EE1-9E31B3E34962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2_Quadrant", "Exercicio_2_Quadrant\Exercicio_2_Quadrant.csproj", "{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2_Quadrant_While", "Exercicio_2_Quadrant_While\Exercicio_2_Quadrant_While.csproj", "{71997AAB-0EAE-4EC7-AE10-981AF3899B6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3_Fuel", "Exercicio_3_Fuel\Exercicio_3_Fuel.csproj", "{5E365E55-D679-4835-B202-85887D787C4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3_Fuel_While", "Exercicio_3_Fuel_While\Exercicio_3_Fuel_While.csproj", "{5E365E55-D679-4835-B202-85887D787C4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

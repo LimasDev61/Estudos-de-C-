@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcoes", "Funcoes\Funcoes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepetitivaWhile", "RepetitivaWhile\RepetitivaWhile.csproj", "{D96B5060-63B5-4443-A3EC-FB40C60D9BC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepetitivaFor", "RepetitivaFor\RepetitivaFor.csproj", "{40A9D7AE-AF57-4939-A8B8-8914500800B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{D96B5060-63B5-4443-A3EC-FB40C60D9BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D96B5060-63B5-4443-A3EC-FB40C60D9BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D96B5060-63B5-4443-A3EC-FB40C60D9BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A9D7AE-AF57-4939-A8B8-8914500800B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A9D7AE-AF57-4939-A8B8-8914500800B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A9D7AE-AF57-4939-A8B8-8914500800B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A9D7AE-AF57-4939-A8B8-8914500800B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

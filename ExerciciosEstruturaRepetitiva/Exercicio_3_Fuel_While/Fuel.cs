@@ -4,7 +4,6 @@ namespace Exercicio_3_Fuel_While
 {
     class Fuel
     {
-        
         /*
          *
          * Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva

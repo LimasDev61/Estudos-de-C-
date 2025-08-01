@@ -4,7 +4,6 @@ namespace Exercicio_2_Quadrant_While
 {
     class Quadrant
     {
-        
         /*
          *
          * Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema

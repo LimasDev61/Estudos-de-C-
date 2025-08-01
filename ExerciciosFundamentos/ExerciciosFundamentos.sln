@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputLesson", "OutputLesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputLesson", "InputLesson\InputLesson.csproj", "{FD386E4B-5D17-4882-A17E-C1BDBB2C3D78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhaskara_Calculato", "Bhaskara_Calculato\Bhaskara_Calculato.csproj", "{E281AA34-CFB0-49BC-9C73-81FF9F24D812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FD386E4B-5D17-4882-A17E-C1BDBB2C3D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD386E4B-5D17-4882-A17E-C1BDBB2C3D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD386E4B-5D17-4882-A17E-C1BDBB2C3D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E281AA34-CFB0-49BC-9C73-81FF9F24D812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E281AA34-CFB0-49BC-9C73-81FF9F24D812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E281AA34-CFB0-49BC-9C73-81FF9F24D812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E281AA34-CFB0-49BC-9C73-81FF9F24D812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

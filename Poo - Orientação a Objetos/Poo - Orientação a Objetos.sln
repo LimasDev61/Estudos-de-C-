@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Sem_Oop", "Resolucao_Sem_Oop\Resolucao_Sem_Oop.csproj", "{2180724A-C530-42AC-B354-304D955B37A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Triangulo_Oop", "Resolucao_Triangulo_Oop\Resolucao_Triangulo_Oop.csproj", "{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2180724A-C530-42AC-B354-304D955B37A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2180724A-C530-42AC-B354-304D955B37A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2180724A-C530-42AC-B354-304D955B37A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2180724A-C530-42AC-B354-304D955B37A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

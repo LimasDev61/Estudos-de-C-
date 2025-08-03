@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Globalization;
+using System.Globalization; // Importação de dependências
 
 namespace Resolucao_Triangulo_Oop;
 
@@ -22,11 +22,9 @@ class Triangles
         bool entrada5 = double.TryParse(Console.ReadLine(), NumberStyles.Any, CultureInfo.InvariantCulture, out y.B);
         bool entrada6 = double.TryParse(Console.ReadLine(), NumberStyles.Any, CultureInfo.InvariantCulture, out y.C);
 
-        double p = (x.A + x.B + x.C) / 2.0;
-        double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-        p = (y.A + y.B + y.C) / 2.0;
-        double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+        // Reaproveitamento do método para chamar os triângulos
+        double areaX = x.CalcularArea();
+        double areaY = y.CalcularArea();
 
         Console.WriteLine($"Area de X = {areaX.ToString("F4", CultureInfo.InvariantCulture)}");
         Console.WriteLine($"Area de Y = {areaY.ToString("F4", CultureInfo.InvariantCulture)}");

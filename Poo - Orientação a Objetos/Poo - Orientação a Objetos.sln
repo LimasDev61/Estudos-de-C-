@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Sem_Oop", "Resolu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Triangulo_Oop", "Resolucao_Triangulo_Oop\Resolucao_Triangulo_Oop.csproj", "{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Estoque_Oop", "Resolucao_Estoque_Oop\Resolucao_Estoque_Oop.csproj", "{86E18DF6-917A-4FEB-9448-3E207AB3379C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A7CD4CA-959C-4C40-BADF-7D9356BD0EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

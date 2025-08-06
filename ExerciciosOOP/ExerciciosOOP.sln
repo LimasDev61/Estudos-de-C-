@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1_OOP_Older", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2_OOP_AverageSalary", "Exercicio_2_OOP_AverageSalary\Exercicio_2_OOP_AverageSalary.csproj", "{16741519-637A-4DD3-9BF6-AC75158F8A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3_OOP_Rectangle", "Exercicio_3_OOP_Rectangle\Exercicio_3_OOP_Rectangle.csproj", "{3BAEBAC0-4672-439E-9761-4AB4FBC0CF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_4_OOP_EmployeSalary", "Exercicio_4_OOP_EmployeSalary\Exercicio_4_OOP_EmployeSalary.csproj", "{1C923AB1-BC0C-4AB3-B4D6-229FE7C53269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_5_OOP_Average", "Exercicio_5_OOP_Average\Exercicio_5_OOP_Average.csproj", "{920F3913-707A-4424-95E9-9D57B9483AB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{16741519-637A-4DD3-9BF6-AC75158F8A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16741519-637A-4DD3-9BF6-AC75158F8A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16741519-637A-4DD3-9BF6-AC75158F8A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAEBAC0-4672-439E-9761-4AB4FBC0CF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAEBAC0-4672-439E-9761-4AB4FBC0CF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAEBAC0-4672-439E-9761-4AB4FBC0CF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAEBAC0-4672-439E-9761-4AB4FBC0CF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C923AB1-BC0C-4AB3-B4D6-229FE7C53269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C923AB1-BC0C-4AB3-B4D6-229FE7C53269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C923AB1-BC0C-4AB3-B4D6-229FE7C53269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C923AB1-BC0C-4AB3-B4D6-229FE7C53269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920F3913-707A-4424-95E9-9D57B9483AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920F3913-707A-4424-95E9-9D57B9483AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920F3913-707A-4424-95E9-9D57B9483AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920F3913-707A-4424-95E9-9D57B9483AB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Triangulo_Oop", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_Estoque_Oop", "Resolucao_Estoque_Oop\Resolucao_Estoque_Oop.csproj", "{86E18DF6-917A-4FEB-9448-3E207AB3379C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_MembrosEstaticos2_Oop", "Resolucao_MembrosEstaticos2_Oop\Resolucao_MembrosEstaticos2_Oop.csproj", "{C220450F-7FCB-4518-B022-B86F9977D434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucao_MembrosEstaticos1_Oop", "Resolucao_MembrosEstaticos1_Oop\Resolucao_MembrosEstaticos1_Oop.csproj", "{CF3D37DD-CF56-4B21-BAC8-A59B56304DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E18DF6-917A-4FEB-9448-3E207AB3379C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C220450F-7FCB-4518-B022-B86F9977D434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C220450F-7FCB-4518-B022-B86F9977D434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C220450F-7FCB-4518-B022-B86F9977D434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C220450F-7FCB-4518-B022-B86F9977D434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3D37DD-CF56-4B21-BAC8-A59B56304DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3D37DD-CF56-4B21-BAC8-A59B56304DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3D37DD-CF56-4B21-BAC8-A59B56304DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3D37DD-CF56-4B21-BAC8-A59B56304DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

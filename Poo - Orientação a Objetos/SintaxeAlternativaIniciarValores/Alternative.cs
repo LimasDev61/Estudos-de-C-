@@ -12,14 +12,14 @@ class Alternative
             Price = 900.00,
             Quantity = 5
         };
-        
+
         AlternativeClass stock2 = new AlternativeClass
         {
             Name = "TV",
             Price = 900.00,
             Quantity = 5
         };
-        
+
         Console.WriteLine("Entre com os dados do produto:");
         Console.Write("Nome: ");
         string name = Console.ReadLine();
@@ -30,9 +30,9 @@ class Alternative
 
         Console.Write("Quantidade: ");
         bool total = int.TryParse(Console.ReadLine(), out int quantity);
-        
+
         AlternativeClass stock = new AlternativeClass(name, price, quantity);
-        
+
         Console.WriteLine();
         Console.WriteLine($"Dados do produto: {stock}");
         Console.WriteLine();
@@ -53,6 +53,5 @@ class Alternative
         Console.WriteLine("Chamada para o objeto com sintaxe alternativa para inicialização de valores:");
         Console.WriteLine($"Dados do produto: {stock1}");
         Console.WriteLine($"Dados do produto: {stock2}");
-        
     }
 }

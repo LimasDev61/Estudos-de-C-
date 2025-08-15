@@ -6,7 +6,7 @@ public class PropClass
 {
     private string _name;
     private double _price;
-    private int _quantity;
+    public int Quantity { get; private set; } // auto-properties
 
     public string Name
     {
@@ -14,35 +14,30 @@ public class PropClass
         set => _name = !string.IsNullOrEmpty(value) ? value : _name;
     }
 
+    public PropClass()
+    {
+        Quantity = 0;
+    }
+
+    public PropClass(string name, double price) : this()
+    {
+        Name = name;
+        Price = price;
+    }
+
+    public double ValueTotalInStock => Price * Quantity;
+
     public double Price
     {
         get => _price;
         set => _price = value > 0 ? value : _price;
     }
 
-    public int Quantity
-    {
-        get => _quantity;
-    }
-
-    public PropClass()
-    {
-        _quantity = 5;
-    }
-
-    public PropClass(string name, double price) : this()
-    {
-        _name = name;
-        _price = price;
-    }
-
-    public double ValueTotalInStock => _price * _quantity; // virou uma propriedade!
-
     public void AddStock(int addStock)
     {
         if (addStock > 0)
         {
-            _quantity += addStock;
+            Quantity += addStock;
         }
     }
 
@@ -50,10 +45,9 @@ public class PropClass
     {
         if (removeStock > 0)
         {
-            _quantity -= removeStock;
+            Quantity -= removeStock;
         }
     }
-
     public override string ToString()
     {
         return Name

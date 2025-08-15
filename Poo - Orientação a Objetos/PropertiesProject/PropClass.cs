@@ -8,12 +8,6 @@ public class PropClass
     private double _price;
     public int Quantity { get; private set; } // auto-properties
 
-    public string Name
-    {
-        get => _name; // => funciona como return;
-        set => _name = !string.IsNullOrEmpty(value) ? value : _name;
-    }
-
     public PropClass()
     {
         Quantity = 0;
@@ -25,13 +19,18 @@ public class PropClass
         Price = price;
     }
 
-    public double ValueTotalInStock => Price * Quantity;
-
+    public string Name
+    {
+        get => _name; // => funciona como return;
+        set => _name = !string.IsNullOrEmpty(value) ? value : _name;
+    }
     public double Price
     {
         get => _price;
         set => _price = value > 0 ? value : _price;
     }
+    
+    public double ValueTotalInStock => Price * Quantity;
 
     public void AddStock(int addStock)
     {
@@ -48,6 +47,7 @@ public class PropClass
             Quantity -= removeStock;
         }
     }
+
     public override string ToString()
     {
         return Name

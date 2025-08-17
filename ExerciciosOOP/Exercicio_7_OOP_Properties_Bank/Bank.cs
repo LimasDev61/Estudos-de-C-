@@ -38,7 +38,7 @@ class Bank
 
         Console.WriteLine();
         Console.Write("Deseja fazer depósito? S/N: ");
-        char userInput = Console.ReadLine().ToUpper()[0];
+        char userInput = char.Parse(Console.ReadLine().ToUpper());
 
         double amount;
         bool transationValid;
@@ -65,7 +65,7 @@ class Bank
 
             Console.WriteLine();
             Console.Write("Deseja fazer Saque? S/N: ");
-            char userInputSaque = Console.ReadLine().ToUpper()[0];
+            char userInputSaque = char.Parse(Console.ReadLine().ToUpper());
 
             if (userInputSaque == 'S')
             {

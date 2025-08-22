@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types_Ref_And_Value", "Types_Ref_And_Value\Types_Ref_And_Value.csproj", "{06490727-451A-41D6-8CE0-82E2BCF35FCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable_Type_Modifier", "Nullable_Type_Modifier\Nullable_Type_Modifier.csproj", "{F9239A37-9E9D-4103-B431-313B815AAC96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{06490727-451A-41D6-8CE0-82E2BCF35FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06490727-451A-41D6-8CE0-82E2BCF35FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06490727-451A-41D6-8CE0-82E2BCF35FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9239A37-9E9D-4103-B431-313B815AAC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9239A37-9E9D-4103-B431-313B815AAC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9239A37-9E9D-4103-B431-313B815AAC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9239A37-9E9D-4103-B431-313B815AAC96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

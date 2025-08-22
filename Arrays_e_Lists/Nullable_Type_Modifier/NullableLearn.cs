@@ -42,6 +42,7 @@ class NullableLearn
         {
             Console.WriteLine("Y, é  NULO");
         }
-        // x.Value, tem exceção quando lançado sozinho por se tratar de um valor nulo.
+        // Value, tem exceção quando lançado sozinho fora de um escopo de controle quando o valor é nulo.
+        // É preciso tratar o erro de InvalidOperationException.
     }
 }

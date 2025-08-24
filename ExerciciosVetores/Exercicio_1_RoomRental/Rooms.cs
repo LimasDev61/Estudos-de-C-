@@ -28,7 +28,7 @@ class Rooms
             Console.Write("Quartos de 1 a 10: ");
             int numeroDeQuartos = Convert.ToInt32(Console.ReadLine());
             ;
-            
+
             int indiceDoQuarto = numeroDeQuartos - 1;
 
             meuPensionato.AlugarQuartos(indiceDoQuarto, nome, email);

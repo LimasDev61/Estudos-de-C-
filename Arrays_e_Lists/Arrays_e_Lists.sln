@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector_Structs", "Vector_St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector_Class", "Vector_Class\Vector_Class.csproj", "{0B75BE3F-7916-4A98-8131-D09B723A018E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params_Modifier", "Params_Modifier\Params_Modifier.csproj", "{9CC898D6-E19D-4611-B874-7ED16F7B59A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0B75BE3F-7916-4A98-8131-D09B723A018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B75BE3F-7916-4A98-8131-D09B723A018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B75BE3F-7916-4A98-8131-D09B723A018E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC898D6-E19D-4611-B874-7ED16F7B59A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC898D6-E19D-4611-B874-7ED16F7B59A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC898D6-E19D-4611-B874-7ED16F7B59A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC898D6-E19D-4611-B874-7ED16F7B59A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
